@@ -1,0 +1,541 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B3DA18631F35235900720EF9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18621F35235900720EF9 /* AppDelegate.swift */; };
+		B3DA18651F35235900720EF9 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18641F35235900720EF9 /* FirstViewController.swift */; };
+		B3DA18671F35235900720EF9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18661F35235900720EF9 /* SecondViewController.swift */; };
+		B3DA186A1F35235900720EF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3DA18681F35235900720EF9 /* Main.storyboard */; };
+		B3DA186C1F35235900720EF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3DA186B1F35235900720EF9 /* Assets.xcassets */; };
+		B3DA186F1F35235900720EF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3DA186D1F35235900720EF9 /* LaunchScreen.storyboard */; };
+		B3DA187A1F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18791F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift */; };
+		B3DA18851F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18841F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B3DA18761F35235900720EF9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B3DA18571F35235900720EF9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B3DA185E1F35235900720EF9;
+			remoteInfo = "Where To Eat Greenwich";
+		};
+		B3DA18811F35235900720EF9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B3DA18571F35235900720EF9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B3DA185E1F35235900720EF9;
+			remoteInfo = "Where To Eat Greenwich";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B3DA185F1F35235900720EF9 /* Where To Eat Greenwich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Where To Eat Greenwich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3DA18621F35235900720EF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B3DA18641F35235900720EF9 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		B3DA18661F35235900720EF9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B3DA18691F35235900720EF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B3DA186B1F35235900720EF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B3DA186E1F35235900720EF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B3DA18701F35235900720EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3DA18751F35235900720EF9 /* Where To Eat GreenwichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Where To Eat GreenwichTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3DA18791F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Where_To_Eat_GreenwichTests.swift; sourceTree = "<group>"; };
+		B3DA187B1F35235900720EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3DA18801F35235900720EF9 /* Where To Eat GreenwichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Where To Eat GreenwichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3DA18841F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Where_To_Eat_GreenwichUITests.swift; sourceTree = "<group>"; };
+		B3DA18861F35235900720EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B3DA185C1F35235900720EF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3DA18721F35235900720EF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3DA187D1F35235900720EF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B3DA18561F35235900720EF9 = {
+			isa = PBXGroup;
+			children = (
+				B3DA18611F35235900720EF9 /* Where To Eat Greenwich */,
+				B3DA18781F35235900720EF9 /* Where To Eat GreenwichTests */,
+				B3DA18831F35235900720EF9 /* Where To Eat GreenwichUITests */,
+				B3DA18601F35235900720EF9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B3DA18601F35235900720EF9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B3DA185F1F35235900720EF9 /* Where To Eat Greenwich.app */,
+				B3DA18751F35235900720EF9 /* Where To Eat GreenwichTests.xctest */,
+				B3DA18801F35235900720EF9 /* Where To Eat GreenwichUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B3DA18611F35235900720EF9 /* Where To Eat Greenwich */ = {
+			isa = PBXGroup;
+			children = (
+				B3DA18621F35235900720EF9 /* AppDelegate.swift */,
+				B3DA18641F35235900720EF9 /* FirstViewController.swift */,
+				B3DA18661F35235900720EF9 /* SecondViewController.swift */,
+				B3DA18681F35235900720EF9 /* Main.storyboard */,
+				B3DA186B1F35235900720EF9 /* Assets.xcassets */,
+				B3DA186D1F35235900720EF9 /* LaunchScreen.storyboard */,
+				B3DA18701F35235900720EF9 /* Info.plist */,
+			);
+			path = "Where To Eat Greenwich";
+			sourceTree = "<group>";
+		};
+		B3DA18781F35235900720EF9 /* Where To Eat GreenwichTests */ = {
+			isa = PBXGroup;
+			children = (
+				B3DA18791F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift */,
+				B3DA187B1F35235900720EF9 /* Info.plist */,
+			);
+			path = "Where To Eat GreenwichTests";
+			sourceTree = "<group>";
+		};
+		B3DA18831F35235900720EF9 /* Where To Eat GreenwichUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B3DA18841F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift */,
+				B3DA18861F35235900720EF9 /* Info.plist */,
+			);
+			path = "Where To Eat GreenwichUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B3DA185E1F35235900720EF9 /* Where To Eat Greenwich */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B3DA18891F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat Greenwich" */;
+			buildPhases = (
+				B3DA185B1F35235900720EF9 /* Sources */,
+				B3DA185C1F35235900720EF9 /* Frameworks */,
+				B3DA185D1F35235900720EF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Where To Eat Greenwich";
+			productName = "Where To Eat Greenwich";
+			productReference = B3DA185F1F35235900720EF9 /* Where To Eat Greenwich.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B3DA18741F35235900720EF9 /* Where To Eat GreenwichTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B3DA188C1F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat GreenwichTests" */;
+			buildPhases = (
+				B3DA18711F35235900720EF9 /* Sources */,
+				B3DA18721F35235900720EF9 /* Frameworks */,
+				B3DA18731F35235900720EF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B3DA18771F35235900720EF9 /* PBXTargetDependency */,
+			);
+			name = "Where To Eat GreenwichTests";
+			productName = "Where To Eat GreenwichTests";
+			productReference = B3DA18751F35235900720EF9 /* Where To Eat GreenwichTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B3DA187F1F35235900720EF9 /* Where To Eat GreenwichUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B3DA188F1F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat GreenwichUITests" */;
+			buildPhases = (
+				B3DA187C1F35235900720EF9 /* Sources */,
+				B3DA187D1F35235900720EF9 /* Frameworks */,
+				B3DA187E1F35235900720EF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B3DA18821F35235900720EF9 /* PBXTargetDependency */,
+			);
+			name = "Where To Eat GreenwichUITests";
+			productName = "Where To Eat GreenwichUITests";
+			productReference = B3DA18801F35235900720EF9 /* Where To Eat GreenwichUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B3DA18571F35235900720EF9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Aktrapp;
+				TargetAttributes = {
+					B3DA185E1F35235900720EF9 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6PQJ4KYE37;
+						ProvisioningStyle = Automatic;
+					};
+					B3DA18741F35235900720EF9 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6PQJ4KYE37;
+						ProvisioningStyle = Automatic;
+						TestTargetID = B3DA185E1F35235900720EF9;
+					};
+					B3DA187F1F35235900720EF9 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6PQJ4KYE37;
+						ProvisioningStyle = Automatic;
+						TestTargetID = B3DA185E1F35235900720EF9;
+					};
+				};
+			};
+			buildConfigurationList = B3DA185A1F35235900720EF9 /* Build configuration list for PBXProject "Where To Eat Greenwich" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B3DA18561F35235900720EF9;
+			productRefGroup = B3DA18601F35235900720EF9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B3DA185E1F35235900720EF9 /* Where To Eat Greenwich */,
+				B3DA18741F35235900720EF9 /* Where To Eat GreenwichTests */,
+				B3DA187F1F35235900720EF9 /* Where To Eat GreenwichUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B3DA185D1F35235900720EF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3DA186F1F35235900720EF9 /* LaunchScreen.storyboard in Resources */,
+				B3DA186C1F35235900720EF9 /* Assets.xcassets in Resources */,
+				B3DA186A1F35235900720EF9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3DA18731F35235900720EF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3DA187E1F35235900720EF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B3DA185B1F35235900720EF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3DA18671F35235900720EF9 /* SecondViewController.swift in Sources */,
+				B3DA18631F35235900720EF9 /* AppDelegate.swift in Sources */,
+				B3DA18651F35235900720EF9 /* FirstViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3DA18711F35235900720EF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3DA187A1F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3DA187C1F35235900720EF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3DA18851F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B3DA18771F35235900720EF9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B3DA185E1F35235900720EF9 /* Where To Eat Greenwich */;
+			targetProxy = B3DA18761F35235900720EF9 /* PBXContainerItemProxy */;
+		};
+		B3DA18821F35235900720EF9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B3DA185E1F35235900720EF9 /* Where To Eat Greenwich */;
+			targetProxy = B3DA18811F35235900720EF9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B3DA18681F35235900720EF9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B3DA18691F35235900720EF9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B3DA186D1F35235900720EF9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B3DA186E1F35235900720EF9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B3DA18871F35235900720EF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B3DA18881F35235900720EF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B3DA188A1F35235900720EF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6PQJ4KYE37;
+				INFOPLIST_FILE = "Where To Eat Greenwich/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Aktrapp.Where-To-Eat-Greenwich";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		B3DA188B1F35235900720EF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6PQJ4KYE37;
+				INFOPLIST_FILE = "Where To Eat Greenwich/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Aktrapp.Where-To-Eat-Greenwich";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		B3DA188D1F35235900720EF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 6PQJ4KYE37;
+				INFOPLIST_FILE = "Where To Eat GreenwichTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Aktrapp.Where-To-Eat-GreenwichTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Where To Eat Greenwich.app/Where To Eat Greenwich";
+			};
+			name = Debug;
+		};
+		B3DA188E1F35235900720EF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 6PQJ4KYE37;
+				INFOPLIST_FILE = "Where To Eat GreenwichTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Aktrapp.Where-To-Eat-GreenwichTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Where To Eat Greenwich.app/Where To Eat Greenwich";
+			};
+			name = Release;
+		};
+		B3DA18901F35235900720EF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 6PQJ4KYE37;
+				INFOPLIST_FILE = "Where To Eat GreenwichUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Aktrapp.Where-To-Eat-GreenwichUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Where To Eat Greenwich";
+			};
+			name = Debug;
+		};
+		B3DA18911F35235900720EF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 6PQJ4KYE37;
+				INFOPLIST_FILE = "Where To Eat GreenwichUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Aktrapp.Where-To-Eat-GreenwichUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Where To Eat Greenwich";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B3DA185A1F35235900720EF9 /* Build configuration list for PBXProject "Where To Eat Greenwich" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3DA18871F35235900720EF9 /* Debug */,
+				B3DA18881F35235900720EF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B3DA18891F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat Greenwich" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3DA188A1F35235900720EF9 /* Debug */,
+				B3DA188B1F35235900720EF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B3DA188C1F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat GreenwichTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3DA188D1F35235900720EF9 /* Debug */,
+				B3DA188E1F35235900720EF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B3DA188F1F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat GreenwichUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3DA18901F35235900720EF9 /* Debug */,
+				B3DA18911F35235900720EF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B3DA18571F35235900720EF9 /* Project object */;
+}
