@@ -1,0 +1,129 @@
+ABIS Japanese Restaurant;$$;Japanese,Hibachi,Sushi;Greenwich;2038629100;381 Greenwich Ave, Greenwich, CT 06830;11:30am 9:30pm 11:30am 9:30pm 11:30am 9:30pm 11:30am 9:30pm 11:30am 10pm 11:30am 10pm 11:30am 9:30pm
+Acuario Restaurant;$$;Spanish,Peruvian,Seafood;Port Chester;9149372338;163 N Main St Port Chester, NY 10573;12pm 9:30pm 12pm 9:30pm 12pm 9:30pm 12pm 10:30pm 12pm 10:30pm 12pm 10:30pm 12:30pm 9pm
+Al Dente;$$;Pizza,Italian;Rye;9149215300;7 Elm Pl, Rye, NY 10580;11am 9pm 11am 9pm 11am 9pm 11am 10pm 11am 10pm 11am 10pm 12pm 9pm
+Appetit Bistro;$$;French;Port Chester;9146902000;540 A Willet Ave Port Chester, NY 10573;5:30pm 10pm 5:30pm 10pm 5:30pm 10pm 5:30pm 10pm 5:30pm 11pm 5:30pm 11pm 11am-3pm 5:30pm-9pm
+Arcuri’s;$$;Pizza;Greenwich;2038696999;226 E Putnam Ave, Cos Cob, CT 06807;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm
+Asiana Cafe;$$;Asian,Sushi;Greenwich;2036226833;130 E Putnam Ave Greenwich, CT 06830;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 12pm 10pm
+Aqui Es Santa Fe;$$;Spanish,Colombian,Seafood;Port Chester;9143051060;32 Broad St Port Chester, NY 10573;9:30am 9pm 9:30am 9pm 9:30am 9pm 9am-3:30pm 5:30pm-9:30pm 9am-3:30pm 5:30pm-9:30pm 8:30am-3:30pm 5:30pm-9:30pm 1pm 9pm
+Back 40 Kitchen;$$$;American;Greenwich;2039921800;107 Greenwich Ave Greenwich, CT 06830;0 11:30am-3pm 5pm-9pm 11:30am-3pm 5pm-9pm 11:30am-3pm 5pm-9pm 11:30am-3pm 5pm-9pm 11:30am-3pm 5pm-10pm 0
+Bareburger;$$;Burgers,American;Rye;9143054036;50 Purchase St Rye, NY 10580;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 11am 10pm
+Bartaco;$$;Tacos,Bar;Port Chester;9149378226;1 Willett Ave Port Chester, NY 10573;11am 1am 11am 1am 11am 1am 11am 1am 11am 2am 11am 2am 11am 1am
+Bella Nonna;$$;Italian,Pizza;Greenwich;2039921888;280 Railroad Ave, Greenwich, CT 06830;11am 9:30pm 11am 9:30pm 11am 9:30pm 11am 9:30pm 11am 10pm 11am 10pm 11am 9pm
+Blackstones Steakhouse;$$$;Steakhouse,Seafood,Bar;Greenwich;2036618700;28 W Putnam Ave Greenwich, CT 06830;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 11pm 11:30am 11pm 11:30am 10pm
+Bobby Q’s;$$;Barbeque;Greenwich;2039900606;1340 E Putnam Ave, Riverside, CT 06878;11am 8pm 11am 8pm 11am 8pm 11am 8pm 11am 8pm 11am 8pm 11am 7pm
+Bobby V's Restaurant & Sports Bar;$$;American,Burgers,Bar;Stamford;2038834320;268 Atlantic St Stamford, CT 06901;11:30am 11pm 11:30am 11pm 11:30am 11pm 11:30am 11pm 11:30am 12am 11:30am 12am 11:30am 11pm
+Boston Market;$;Fast Food;Greenwich;2036374088;1345 E Putnam Ave, Old Greenwich, CT 06870;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 9pm
+Boxcar Cantina;$$;Mexican;Greenwich;2036614774;44 Old Field Point Rd Greenwich, CT 06830;11:30am-3pm 5:30pm-9:30pm 11:30am-3pm 5:30pm-9:30pm 11:30am-3pm 5:30pm-9:30pm 11:30am-3pm 5:30pm-9:30pm 11:30am-3pm 5:30pm-10:30pm 5:30pm 10:30pm 4:30pm 9pm
+Bruce Park Grill;$;American;Greenwich;2038698006;231 Bruce Park Ave, Greenwich, CT 06830;
+Buffalo Wild Wings-Port Chester;$$;Chicken Shop,American;Port Chester;9146909453;44 Westchester Ave, Port Chester, NY 10573;11am 11pm 11am 11pm 11am 11pm 11am 11pm 11am 12am 11am 12am 11am 11pm
+Buffalo Wild Wings-Stamford;$$;Chicken Shop;Stamford;2033249453;208 Summer St Stamford, CT 06901;11am 12am 11am 12am 11am 12am 11am 12am 11am 1am 11am 1am 11am 12am
+Burger King;$;Fast Food;Port Chester;9149347877;260 Boston Post Rd, Port Chester, NY 10573;6am 12am 6am 12am 6am 12am 6am 12am 6am 12am 6am 12am 7am 12am
+Burgers Shakes & Fries;$$;Burgers,American;Greenwich;2035317433;302 Delavan Ave, Greenwich, CT 06830;11:30am 8pm 11:30am 8pm 11:30am 8pm 11:30am 8pm 11:30am 9:30pm 11:30am 9:30pm 12pm 3pm
+Cafe Silvium;$$;Italian;Stamford;2033241651;371 Shippan Ave Stamford, CT 06902;12pm-2:30pm 5pm-10pm 12pm-2:30pm 5pm-10pm 12pm-2:30pm 5pm-10pm 12pm-2:30pm 5pm-10pm 12pm-2:30pm 5pm-11pm 5pm 11pm 0
+Capriccio Cafe;$$;Italian;Stamford;2033569819;189 Bedford St, Stamford, CT 06901;11am 11pm 11am 11pm 11am 11pm 11am 11pm 11am 12am 11am 12am 11am 11pm
+Centro Ristorante & Bar;$$;Italian,Seafood,Sandwiches;Greenwich;2035315514;328 Pemberwick Rd Greenwich, CT 06831;11:30am 10:30pm 11:30am 10:30pm 11:30am 10:30pm 11:30am 10:30pm 11:30am 10:30pm 11:30am 10:30pm 4:30pm 9pm
+Char Restaurant;$$$;American;Greenwich;2039001100;2 S Water St Greenwich, CT 06830;12pm-3pm 5pm-10pm 12pm-3pm 5pm-10pm 12pm-3pm 5pm-10pm 12pm-3pm 5pm-10pm 12pm-3pm 5pm-11pm 5pm 11pm 4pm 9pm
+Chicken Joe's-Cos Cob;$;Chicken Shop,Deli;Greenwich;2038610075;231 E Putnam Ave Cos Cob, CT 06807;6am 6pm 6am 6pm 6am 6pm 6am 6pm 6am 6pm 6am 4:30pm 8am 3pm
+Chicken Joe's-Greenwich;$$;Chicken Shop,Deli;Greenwich;2036253322;364 West Putnam Avenue, Greenwich, CT 06830;9am 10pm 9am 10pm 9am 10pm 9am 10pm 9am 10pm 9am 10pm 10am 8pm
+Chicken Joe's-Rye;$;Chicken Shop,Deli;Rye;9149675637;382 Midland Ave Rye, NY 10580;10am 8pm 10am 8pm 10am 8pm 10am 8pm 10am 8pm 10am 8pm 10am 6pm
+Chicken Now;$;Chicken Shop,Mall;Stamford;2034259759;100 Greyrock Pl, Stamford, CT 06901;
+Chipotle Mexican Grill-Greenwich;$;Mexican;Greenwich;2036255391;49 Greenwich Ave, Greenwich, CT 06830;10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm
+Chipotle Mexican Grill-Riverside;$;Mexican;Greenwich;2036370078;1233 E Putnam Ave Riverside, CT 06878;10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm
+Chipotle Mexican Grill-Rye;$;Mexican;Rye;9149370351;100 S Ridge St Rye Brook, NY 10573;10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm 10:45am 10pm
+Chop’t Salad;$$;Salad;Greenwich;2034095811;1271 E Putnam Ave, Riverside, CT 06878;10:30am 9:30pm 10:30am 9:30pm 10:30am 9:30pm 10:30am 9:30pm 10:30am 9:30pm 10:30am 9:30pm 10:30am 9:30pm
+Coalhouse Pizza;$$;Pizza,American;Stamford;2039777700;85 High Ridge Rd, Stamford, CT 06905;11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 11am 11pm 11am 10pm
+Coals;$$;Pizza;Port Chester;9143053220;35 1/2 N Main St Port Chester, NY 10573;5pm 9:30pm 5pm 9:30pm 5pm 9:30pm 5pm 9:30pm 11:30am-4pm 5pm-10:30pm 12pm-4pm 5pm-10:30pm 1pm 9pm
+Colony Grill;$$;Pizza;Stamford;2033592184;172 Myrtle Ave, Stamford, CT 06902;11:30am 11pm 11:30am 11pm 11:30am 11pm 11:30am 11pm 11:30am 12am 11:30am 12am 11:30am 10:30pm
+Copacabana;$$$;Brazilian;Port Chester;9149396894;29 N Main St, Port Chester, NY 10573;0 12pm 9:30pm 12pm 9:30pm 12pm 9:30pm 12pm 9:30pm 12pm 10pm 12pm 4am 12pm 9pm
+Corbo’s Deli;$;Deli;Greenwich;2036294987;470 West Putnam Avenue, Greenwich, CT 06830;6am 3pm 6am 3pm 6am 3pm 6am 3pm 6am 3pm 7am 3pm 0
+Crew Restaurant;$$$;American;Greenwich;2033409433;280 Railroad Ave Greenwich, CT 06830;0 12pm 10pm 12pm 10pm 12pm 10pm 12pm 10pm 12pm 11pm 0
+Dig Inn;$$;American;Rye;9143058463;112 S Ridge St Rye Brook, NY 1057;10:30am 9pm 10:30am 9pm 10:30am 9pm 10:30am 9pm 10:30am 9pm 10:30am 9pm 10:30am 9pm
+Dinosaur BBQ;$$;Barbeque;Stamford;2035173272;845 Canal St, Stamford, CT 06902;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 11pm 11:30am 11pm 11:30am 10pm
+Domino’s Pizza;$;Pizza;Greenwich;2036612202;142 E Putnam Ave, Cos Cob, CT 06807;11am 1am 11am 1am 11am 1am 11am 1am 11am 3am 11am 3am 11am 1am
+Douro Restaurant Bar;$$$;Portuguese,Mediterranean,Bar;Greenwich;2038697622;363 Greenwich Ave Greenwich, CT 06830;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10:30pm 11:30am 10:30pm 11:30am 9:30pm
+Eastend;$$$;American;Greenwich;2038629200;409 Greenwich Ave Greenwich, CT 06830;11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10:30pm 11:30am-4pm 5pm-10:30pm 11:30am-4pm 5pm-9:30pm
+Edo Japanese Steakhouse;$$;Japanese,Hibachi,Sushi;Port Chester;9149373333;140 Midland Ave, Port Chester, NY 10573;5:30pm 10pm 5:30pm 10pm 5:30pm 10pm 5:30pm 10pm 5:30pm 11pm 5pm 11pm 4pm 9pm
+El Charrito;$;Mexican;Greenwich;2039900200;7 Apache Pl, Riverside, CT 06878;10am 9pm 10am 9pm 10am 9pm 10am 9pm 10am 9pm 10am 9pm 0
+Elevation Burger;$;Burgers,American;Port Chester;9143056700;176 S Ridge St, Port Chester, NY 10573;11am 9pm 11am 9pm 11am 9pm 11am 9pm 11am 9pm 11am 9pm 11am 9pm
+Elm Street Oyster House;$$$;Seafood;Greenwich;2036295795;11 W Elm St Greenwich, CT 06830;11:30am 10pm 11:30am 9pm 11:30am 9:30pm 11:30am 9:30pm 11:30am 10:30pm 11:30am 10:30pm 11:30am 8:30pm
+Firehouse Deli;$$;Deli;Greenwich;2035310002;265 Mill St, Greenwich, CT 06830;6am 5pm 6am 5pm 6am 5pm 6am 5pm 6am 5pm 6am 5pm 7am 3pm
+Five Guys;$$;Burgers,Fast Food;Stamford;2038170141;1221 High Ridge Rd, Stamford, CT 06905;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm
+Frankie & Johnnie's Steakhouse;$$$$;Steakhouse;Rye;9149253900;77 Purchase St Rye, NY 10580;5pm 9:30pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 11pm 5pm 11pm 5pm 9:30pm
+Gabriele's Italian Steakhouse;$$$$;Italian;Greenwich;2036224223;35 Church St Greenwich, CT 06830;5pm 10pm 5pm 10pm 5pm 10pm 5pm 10pm 5pm 11pm 5pm 11pm 5pm 9pm
+Gaia Restaurant;$$;Mediterranean,Portuguese;Greenwich;2039002234;355 Greenwich Ave Greenwich, CT 06830;0 12pm-4pm 5pm-10pm 12pm-4pm 5pm-10pm 12pm-4pm 5pm-10pm 12pm-4pm 5pm-10:30pm 12pm-4pm 5pm-10:30pm 12pm-4pm 5pm-9pm
+Garden Catering;$;Chicken Shop,Deli;Greenwich;2034222555;177 Hamilton Ave, Greenwich, CT 06830;6:30am 6:30pm 6:30am 6:30pm 6:30am 6:30pm 6:30am 6:30pm 6:30am 6:30pm 7am 5:30pm 0
+Glory Days Diner;$$;Diner;Greenwich;2036619067;69 E Putnam Ave, Greenwich, CT 06830;6am 1am 6am 1am 6am 1am 6am 1am 6am 3am 6am 3am 6am 1am
+Greenwich Prime Meats;$$;Deli;Greenwich;2038616328;100 Bruce Park Ave, Greenwich, CT 06830;9am 6pm 9am 6pm 9am 6pm 9am 6pm 9am 6pm 9am 6pm 9am 5pm
+Harvest Wine Bar;$$;American;Greenwich;2038694080;372 Greenwich Ave Greenwich, CT 06830;12pm 10pm 12pm 10pm 12pm 10pm 12pm 10pm 12pm 10pm 11:30am 11pm 11am 9pm
+Hubba’s;$;Fast Food;Port Chester;9149397271;24 N Main St, Port Chester, NY 10573;9am 5am 9am 5am 9am 5am 9am 5am 9am 5am 9am 5am 9am 5am
+Ichiban;$;Mall,Japanese,Sushi;Stamford;2033278888;100 Greyrock Pl, Stamford, CT 06901;
+Incazteca;$$;Peruvian,Mexican;Port Chester;9143055400;480 Westchester Ave Port Chester, NY 10573;9am 10pm 9am 10pm 9am 10pm 9am 10pm 9am 10pm 8am 10pm 8am 9pm
+India Avenue;$$$;Indian;Greenwich;2037171567;249 Railroad Ave Greenwich, CT 06830;11am-2:30pm 5pm-10pm 11am-2:30pm 5pm-10pm 11am-2:30pm 5pm-10pm 11am-2:30pm 5pm-10pm 11am-2:30pm 5pm-10pm 12am-3pm 5pm-10:30pm 12am-3pm 5pm-10:30pm
+Jerry's Post Road Market;$;Deli,Sandwiches;Rye;9149677033;1000 Boston Post Rd Rye, NY 10580;6am 9pm 6am 9pm 6am 9pm 6am 9pm 6am 9pm 6am 9pm 6am 2pm
+Joey B’s;$;Diner;Greenwich;2036610573;118 River Rd Ext, Cos Cob, CT 06807;6am 3pm 6am 8pm 6am 8pm 6am 8pm 6am 8pm 7am 4pm 7am 2pm
+Kati N More;$;Indian;Stamford;2038909090;80 Atlantic St, Stamford, CT 06901;0 11am–3pm 5:30pm–10pm 11am–3pm 5:30pm–10pm 11am–3pm 5:30pm–10pm 11am–3pm 5pm–11pm 11:30am–4pm 5pm–11pm 11:30am–4pm 5pm–10pm
+Kelly's Sea Level;$$;American,Seafood;Rye;9149214166;45 Purchase St Rye, NY 10580;11am 12am 11am 12am 11am 12am 11am 12am 11am 12am 11am 12am 11am 12am
+KFC;$;Fast Food;Port Chester;9149350741;262 Boston Post Rd, Port Chester, NY 10573;10:30am 11pm 10:30am 11pm 10:30am 11pm 10:30am 11pm 10:30am 11pm 10:30am 11pm 10:30am 11pm
+Kumo;$$;Japanese,Hibachi,Sushi;Stamford;2036748560;850 E Main St, Stamford, CT 06902;11:30am 9pm 11:30am 10pm 11:30am 9pm 11:30am 9pm 11:30am 10pm 11:30am 10pm 11:30am 9pm
+L'Escale;$$$;American;Greenwich;2036614600;500 Steamboat Rd Greenwich, CT 06830;7am 10pm 7am 10pm 7am 10pm 7am 10pm 7am 11pm 7am 11pm 7am 10pm
+Le Pain Quotidien;$$;Cafe;Rye;9149671460;30 Purchase St Rye, NY 10580;7am 5pm 7am 5pm 7am 5pm 7am 5pm 7am 5pm 8am 6pm 8am 6pm
+Little Box Pizza;$$;Pizza;Stamford;2035480299;1101 Bedford St Stamford, CT 06905;5pm 9:30pm 5pm 9:30pm 5pm 9:30pm 5pm 9:30pm 5pm 10pm 5pm 10pm 0
+Little Pub;$$;American,Burgers,Bar;Greenwich;2037171147;531 E Putnam Ave Cos Cob, CT 06807;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm
+Little Thai Kitchen-Greenwich;$$;Thai;Greenwich;2036222972;21 St Roch Ave Greenwich, CT 06830;11am 9:30pm 11am 9:30pm 11am 9:30pm 11am 9:30pm 11am 10pm 12am 10pm 12am 9pm
+Little Thai Kitchen-Rye;$$$;Thai;Rye;9146124400;2 Purchase St Rye, NY 10580;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 12pm 10pm 12pm 10pm
+Lugano Wine Bar & Salumeria;$$;Italian;Greenwich;2039900955;1392 East Putnam Ave Greenwich, CT 06870;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10:30pm 11:30am 10:30pm 11:30am 10pm
+McDonald’s-Greenwich;$;Fast Food;Greenwich;2033023292;268 West Putnam Avenue, Greenwich, CT 06830;5am 1am 5am 1am 5am 1am 5am 1am 5am 2am 5am 2am 5am 12am
+McDonald's-Port Chester;$;Fast Food;Port Chester;9149373355;321 Boston Post Rd Port Chester, NY 10573;24 hours 24 hours 24 hours 24 hours 24 hours 24 hours 24 hours
+McDonald's-Riverside;$;Fast Food;Greenwich;2036378598;1207 E Putnam Ave Riverside, CT 06878;24 hours 24 hours 24 hours 24 hours 24 hours 24 hours 24 hours
+Meli-Melo;$$;Cafe,Creperie,Juice Bar;Greenwich;2036296153;362 Greenwich Ave Greenwich, CT 06830;7am 10pm 7am 10pm 7am 10pm 7am 10pm 7am 10pm 8am 10pm 8am 10pm
+Mill Street Bar & Table;$$$;American,Seafood,Bar;Greenwich;2033474372;230 Mill St Greenwich, CT 06830;0 5pm 10pm 5pm 10pm 11am 11pm 11am 11pm 11am 11pm 11am 9pm
+Noma's Restaurant;$;American,Mexican;Port Chester;9143052312;92 Purdy Ave Port Chester, NY 10573;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10:30pm 11am 10:30pm 8am 9pm
+Oriental Gourmet;$$;Chinese,Asian;Greenwich;2036371010;214 Sound Beach Ave, Old Greenwich, CT 06870;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 12pm 10pm
+Panda Express;$;Chinese,Mall;Stamford;2039658302;100 Greyrock Pl, Stamford, CT 06901;
+Panka Peruvian Bistro;$$;Spanish,Peruvian,Seafood;Port Chester;9144815424;167 Westchester Ave Port Chester, NY 10573;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 9pm
+Papa John’s Pizza;$;Pizza;Port Chester;9144815096;117 N Main St, Port Chester, NY 10573;11am 1am 11am 1am 11am 1am 11am 1:30am 11am 2:30am 11am 2:30am 11am 12:30am
+Pasta Vera;$$;Italian;Greenwich;2036619705;48 Greenwich Ave Greenwich, CT 06830;8am 10pm 8am 10pm 8am 10pm 8am 10pm 8am 10pm 9am 11pm 4pm 9:30pm
+Penang Grill;$$;Asian;Greenwich;2038611988;55 Lewis St, Greenwich, CT 06830;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 0
+Pizza Post;$$;Italian,Pizza;Greenwich;2036610909;522 E Putnam Ave #6, Greenwich, CT 06830;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 12pm 10pm
+Pizza 2000;$$;Pizza,Italian;Harrison;9148358000;337 Halstead Ave, Harrison, NY 10528;10am 10pm 10am 10pm 10am 10pm 10am 11pm 10am 11pm 10am 11pm 11am 10pm
+Plan B;$$;Burgers,American;Stamford;2039648353;230 Tresser Blvd, Stamford, CT 06901;11:30am 1am 11:30am 1am 11:30am 1am 11:30am 2am 11:30am 2am 11:30am 1am 11:30am 1am
+Planet Pizza-Greenwich;$;Italian,Pizza;Greenwich;2036220999;28 Railroad Ave, Greenwich, CT 06830;10am 11pm 10am 11pm 10am 11pm 10am 11pm 10am 12am 10am 12am 10:30am 10:30pm
+Planet Pizza-Rye;$$;Pizza;Rye;9149252500;1004 Boston Post Rd Rye, NY 10580;10am 10pm 10am 10pm 10am 10pm 10am 10pm 10am 11pm 10am 11pm 11am 10pm
+Pollo A La Brasa;$$;Peruvian;Port Chester;9149399437;110 S Main St, Port Chester, NY 10573;8am 11pm 8am 11pm 8am 11pm 8am 11pm 8am 11pm 8am 11pm 8am 11pm
+Pomodoro Pizzeria & Trattoria;$$;Italian,Pizza;Greenwich;2036987779;1247 E Putnam Ave Riverside, CT 06878;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 11am 9pm
+Popeyes;$;Fast Food;Port Chester;9144815174;275 Boston Post Rd, Port Chester, NY 10573;
+Q Authentic Barbeque;$$;Barbeque;Port Chester;9149337427;112 N Main St, Port Chester, NY 10573;11:30am 9:30am 11:30am 9:30am 11:30am 9:30am 12pm 9pm 11:30am 9pm 11:30am 9pm 11:30am 9pm
+Riko’s Pizza;$$;Pizza;Stamford;2036748970;170 Selleck St, Stamford, CT 06902;10am 10pm 10am 10pm 10am 10 pm 10am 10pm 10am 10pm 11am 10pm 11am 9pm
+Rinaldi’s Deli;$;Deli;Greenwich;2036228315;70 Orchard St, Cos Cob, CT 06807;5am 5:30pm 5am 5:30pm 5am 5:30pm 5am 5:30pm 5am 5:30pm 5am 4pm 0
+Salsa Picante;$$;Mexican;Port Chester;2036468299;110 Adee St Port Chester, NY 10573;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 11am 10pm
+Saltaire Oyster Bar And Fish House;$$$;Seafood,Bar;Port Chester;9149392425;55 Abendroth Ave Port Chester, NY 10573;4:30pm 9pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 11pm 4pm 11pm 11:30am-3pm 4pm-9pm
+Steam;$$;Asian;Greenwich;2039921500;374 Greenwich Ave, Greenwich, CT 06830;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11am 11pm 12pm 10pm
+Subway;$;Deli;Greenwich;2037691326;469 West Putnam Avenue, Greenwich, CT 06830;7:30am 10pm 7:30am 10pm 7:30am 10pm 7:30am 10pm 7:30am 10pm 9am 10pm 9am 9pm
+Sundown Saloon;$$;American;Greenwich;2036298212;403 Greenwich Ave Greenwich, CT 06830;11:30am 1am 11:30am 1am 11:30am 1am 11:30am 1am 11:30am 2am 11:30am 2am 11:30am 1am
+Sushi Soba;$$;Sushi;Greenwich;2039900888;1345 E Putnam Ave Old Greenwich, CT 06870;11am 9pm 11am 9pm 11am 9pm 11am 9pm 11am 10pm 11am 10pm 12pm 9pm
+Sushi X II;$$;Japanese,Sushi;Stamford;2033275757;109 Atlantic St, Stamford, CT 06901;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 11pm 11:30am 11pm 11:30am 10pm
+Taco Bell-Greenwich;$;Fast Food;Greenwich;2036982290;1371 E Putnam Ave, Old Greenwich, CT 06870;7am 12am 7am 12am 7am 12am 7am 12am 7am 1am 7am 1am 7am 12am
+Taco Bell-Port Chester;$;Fast Food;Port Chester;9149390695;303 Boston Post Rd Port Chester, NY 10573;7am 2am 7am 2am 7am 2am 7am 2am 7am 3am 7am 3am 7am 2am
+Tandoori;$$;Indian;Port Chester;9149372727;163 N Main St, Port Chester, NY 10573;12pm–2:30pm 5pm–10pm 12pm–2:30pm 5pm–10pm 12pm–2:30pm 5pm–10pm 12pm–2:30pm 5pm–10pm 12pm–2:30pm 5pm–10pm 12pm–2:30pm 5pm–10pm 12pm–2:30pm 5pm–10pm
+Taqueria La Picardia;$$;Mexican;Port Chester;9149372003;118 Westchester Ave Port Chester, NY 10573;24 hours 24 hours 24 hours 24 hours 24 hours 24 hours 24 hours
+Tarry Lodge;$$$;Italian;Port Chester;9149393111;18 Mill St Port Chester, NY 10573;12pm 9pm 12pm 9pm 12pm 9pm 12pm 10pm 12pm 11pm 12pm 11pm 12pm 9pm
+Tengda Asian Bistro;$$$;Asian,Sushi;Greenwich;2036255338;21 Field Point Rd Greenwich, CT 06830;11am 10pm 11am 10pm 11am 10pm 11am 10pm 11am 11pm 11:30am 11pm 12pm 10pm
+Terra Ristorante Italiano;$$$;Italian;Greenwich;2036295222;156 Greenwich Ave Greenwich, CT 06830;11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10pm 11:30am-4pm 5pm-10:30pm 11:30am-4pm 5pm-10:30pm 11am-4pm 5pm-9:30pm
+TGI Firdays;$$;American;White Plains;9149483209;250 Main St, White Plains, NY 10601;11am 2am 11am 2am 11am 2am 11am 2am 11am 2am 11am 2am 11am 2am
+Thai Basil;$$;Thai;Greenwich;2036189888;95 Railroad Ave Greenwich, CT 06830;11am 9:30pm 11am 9:30pm 11am 9:30pm 11am 9:30pm 12pm 10:30pm 12pm 10:30pm 12pm 9:30pm
+The Cheesecake Factory;$$;American;Stamford;9146835253;230 Tresser Blvd, Stamford, CT 06901;11:30am 11pm 11:30am 11pm 11:30am 11pm 11:30am 11pm 11:30am 12:30am 11:30am 12:30am 10am 11pm
+The Clydesdale Pub & Grill;$$;Pizza,American;Port Chester;9149351234;435 Main St Port Chester, NY 10573;3:30pm 1am 3:30pm 1am 3:30pm 1am 3:30pm 1am 3:30pm 2am 11:30am 2am 11:30am 2am
+The Ginger Man;$$;American,Bar;Greenwich;2038616400;64 Greenwich Ave Greenwich, CT 06830;11:45am 1am 11:45am 1am 11:45am 1am 11:45am 1am 11:45am 2am 11:45am 2am 11am 12am
+The Granola Bar;$$;Cafe;Greenwich;2038835220;41 Greenwich Ave Greenwich, CT 06830;7am 5pm 7am 5pm 7am 5pm 7am 5pm 7am 5pm 7am 5pm 8am 4pm
+The J House Restaurant;$$$;American;Greenwich;2036986999;1114 E Putnam Ave Greenwich, CT 06878;7am 10:30pm 7am 10:30pm 7am 10:30pm 7am 10:30pm 7am 11pm 7am 11pm 7am 9pm
+The Rye Grill & Bar;$$;American,Bar;Rye;9149670332;1 Station Plz Rye, NY 10580;11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 10pm 11:30am 11pm 11:30am 11pm 11:30am 9pm
+The Rye Roadhouse;$$;American;Rye;9149252668;12 High St, Rye, NY 10580;11:30am 1:30am 11:30am 1:30am 11:30am 1:30am 11:30am 1:30am 11:30am 1:45am 11:30am 1:45am 11:30am 1:30am
+The Wienery;$;Hot Dogs;Stamford;2035694990;17 Bridge St, Stamford, CT 06905;11am 9pm 11am 9pm 11am 9pm 11am 9pm 11am 9pm 11am 9pm 11:30am 8pm
+Tomatillo;$;Mexican;Greenwich;2038690928;65 E Putnam Ave, Cos Cob, CT 06807;11am 8pm 11am 9pm 11am 9pm 11am 9pm 11am 9pm 12pm 9pm 12pm 8pm
+Two Door Restaurant;$$;American;Greenwich;2036229079;176 Hamilton Ave, Greenwich, CT 06830;
+Valbella;$$$$;Italian;Greenwich;2036371155;1309 E Putnam Ave Riverside, CT 06878;12pm 10pm 12pm 10pm 12pm 10pm 12pm 10pm 12pm 11pm 5pm 11pm 0
+Villa Nuova;$$;Deli;Greenwich;2034220174;551 E Putnam Ave, Greenwich, CT 06830;8:30am 5:30pm 8:30am 5:30pm 8:30am 5:30pm 8:30am 5:30pm 8:30am 4:30pm 8:30am 4:30pm 11am 2pm
+Village Beer Garden;$;Beer Garden,Salad,Sandwiches;Port Chester;9149397500;3 Broad St Port Chester, NY 10573;0 0 4pm 1am 4pm 1am 4pm 1am 12pm 1am 12pm 1am
+Water Moon;$$;Asian,Chinese,Japanese;Rye;9149218880;66 Purchase St Rye, NY 10580;11:30am 9:30pm 11:30am 9:30pm 11:30am 9:30pm 11:30am 9:30pm 11:30am 10:30pm 11:30am 10:30pm 12:30am 9:30pm
+Wendy’s;$;Fast Food;Greenwich;2038699885;460 West Putnam Avenue, Greenwich, CT 06830;10am 1am 10am 1am 10am 1am 10am 1am 10am 1am 10am 1am 10am 1am
+Wingstop;$;Chicken Shop;Port Chester;9149390200;110 Abendroth Ave, Port Chester, NY 10573;11am 12am 11am 12am 11am 12am 11am 12am 11am 12am 11am 12am 11am 12am

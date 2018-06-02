@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aktrapp " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jJb-la-7Px">
+                                <rect key="frame" x="0.0" y="208" width="375" height="47"/>
+                                <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <rect key="contentStretch" x="0.0" y="1" width="1" height="1"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Wide" family="Marker Felt" pointSize="36"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <size key="shadowOffset" width="0.0" height="0.0"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  Copyright (c) 2017 Aktrapp. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="e7X-ti-btc">
+                                <rect key="frame" x="0.0" y="570" width="375" height="19.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="oval1.png" translatesAutoresizingMaskIntoConstraints="NO" id="NRX-s8-Dzl">
+                                <rect key="frame" x="67" y="167" width="240" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="9IA-Pk-icf"/>
+                                    <constraint firstAttribute="height" constant="128" id="ynZ-FF-Dwy"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.0" blue="0.049691020333036739" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="jJb-la-7Px" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="188" id="LiT-fb-Sp5"/>
+                            <constraint firstItem="e7X-ti-btc" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="MQU-XD-xwe"/>
+                            <constraint firstItem="NRX-s8-Dzl" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="PVU-jI-FUB"/>
+                            <constraint firstAttribute="trailing" secondItem="e7X-ti-btc" secondAttribute="trailing" id="UsE-v8-Bko"/>
+                            <constraint firstItem="e7X-ti-btc" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="fh7-DZ-jdW"/>
+                            <constraint firstItem="NRX-s8-Dzl" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="147" id="j5V-ys-LD3"/>
+                            <constraint firstItem="jJb-la-7Px" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="sUw-So-Qjo"/>
+                            <constraint firstItem="jJb-la-7Px" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="thU-B5-82l"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="e7X-ti-btc" secondAttribute="bottom" constant="77.5" id="vpD-3Z-eoQ"/>
+                            <constraint firstAttribute="trailing" secondItem="jJb-la-7Px" secondAttribute="trailing" id="yVP-He-kGd"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="oval1.png" width="814" height="379"/>
+    </resources>
+</document>
