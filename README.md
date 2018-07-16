@@ -1,7 +1,7 @@
 # Where-To-Eat-Greenwich
 
-Local restaurant finder application
+local restaurant finder application
 
-Published to the App Store August 2017
+published to the app store august 2017
 
-Available for iPhone
+available for iphone
