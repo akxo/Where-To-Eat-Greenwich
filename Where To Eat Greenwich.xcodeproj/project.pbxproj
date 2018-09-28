@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		B3DA18631F35235900720EF9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18621F35235900720EF9 /* AppDelegate.swift */; };
 		B3DA186C1F35235900720EF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3DA186B1F35235900720EF9 /* Assets.xcassets */; };
-		B3DA187A1F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18791F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift */; };
-		B3DA18851F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DA18841F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift */; };
 		B3DA18951F35241A00720EF9 /* greenwich.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3DA18941F35241A00720EF9 /* greenwich.txt */; };
 		B3DA18971F35241F00720EF9 /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B3DA18961F35241F00720EF9 /* image.jpg */; };
 		B3DA18991F35242300720EF9 /* oval1.png in Resources */ = {isa = PBXBuildFile; fileRef = B3DA18981F35242300720EF9 /* oval1.png */; };
@@ -41,16 +39,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B3DA185F1F35235900720EF9 /* Where To Eat Greenwich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Where To Eat Greenwich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3D3C2AF215DCC2D008A77FD /* Where To Eat Greenwich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Where To Eat Greenwich.app"; path = "/Users/alexanderkerendian/Documents/Xcode/Projects/koja-bokhor/build/Debug-iphoneos/Where To Eat Greenwich.app"; sourceTree = "<absolute>"; };
+		B3D3C2B0215DCC2D008A77FD /* Where To Eat GreenwichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Where To Eat GreenwichTests.xctest"; path = "/Users/alexanderkerendian/Documents/Xcode/Projects/koja-bokhor/build/Debug-iphoneos/Where To Eat GreenwichTests.xctest"; sourceTree = "<absolute>"; };
+		B3D3C2B1215DCC2D008A77FD /* Where To Eat GreenwichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Where To Eat GreenwichUITests.xctest"; path = "/Users/alexanderkerendian/Documents/Xcode/Projects/koja-bokhor/build/Debug-iphoneos/Where To Eat GreenwichUITests.xctest"; sourceTree = "<absolute>"; };
 		B3DA18621F35235900720EF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B3DA186B1F35235900720EF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3DA18701F35235900720EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3DA18751F35235900720EF9 /* Where To Eat GreenwichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Where To Eat GreenwichTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B3DA18791F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Where_To_Eat_GreenwichTests.swift; sourceTree = "<group>"; };
-		B3DA187B1F35235900720EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3DA18801F35235900720EF9 /* Where To Eat GreenwichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Where To Eat GreenwichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B3DA18841F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Where_To_Eat_GreenwichUITests.swift; sourceTree = "<group>"; };
-		B3DA18861F35235900720EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B3DA18941F35241A00720EF9 /* greenwich.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = greenwich.txt; sourceTree = "<group>"; };
 		B3DA18961F35241F00720EF9 /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 		B3DA18981F35242300720EF9 /* oval1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oval1.png; sourceTree = "<group>"; };
@@ -94,20 +88,7 @@
 			children = (
 				B3DA18A61F35249200720EF9 /* GoogleMobileAds.framework */,
 				B3DA18611F35235900720EF9 /* Where To Eat Greenwich */,
-				B3DA18781F35235900720EF9 /* Where To Eat GreenwichTests */,
-				B3DA18831F35235900720EF9 /* Where To Eat GreenwichUITests */,
-				B3DA18601F35235900720EF9 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		B3DA18601F35235900720EF9 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				B3DA185F1F35235900720EF9 /* Where To Eat Greenwich.app */,
-				B3DA18751F35235900720EF9 /* Where To Eat GreenwichTests.xctest */,
-				B3DA18801F35235900720EF9 /* Where To Eat GreenwichUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		B3DA18611F35235900720EF9 /* Where To Eat Greenwich */ = {
@@ -129,24 +110,6 @@
 			path = "Where To Eat Greenwich";
 			sourceTree = "<group>";
 		};
-		B3DA18781F35235900720EF9 /* Where To Eat GreenwichTests */ = {
-			isa = PBXGroup;
-			children = (
-				B3DA18791F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift */,
-				B3DA187B1F35235900720EF9 /* Info.plist */,
-			);
-			path = "Where To Eat GreenwichTests";
-			sourceTree = "<group>";
-		};
-		B3DA18831F35235900720EF9 /* Where To Eat GreenwichUITests */ = {
-			isa = PBXGroup;
-			children = (
-				B3DA18841F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift */,
-				B3DA18861F35235900720EF9 /* Info.plist */,
-			);
-			path = "Where To Eat GreenwichUITests";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -164,7 +127,7 @@
 			);
 			name = "Where To Eat Greenwich";
 			productName = "Where To Eat Greenwich";
-			productReference = B3DA185F1F35235900720EF9 /* Where To Eat Greenwich.app */;
+			productReference = B3D3C2AF215DCC2D008A77FD /* Where To Eat Greenwich.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B3DA18741F35235900720EF9 /* Where To Eat GreenwichTests */ = {
@@ -182,7 +145,7 @@
 			);
 			name = "Where To Eat GreenwichTests";
 			productName = "Where To Eat GreenwichTests";
-			productReference = B3DA18751F35235900720EF9 /* Where To Eat GreenwichTests.xctest */;
+			productReference = B3D3C2B0215DCC2D008A77FD /* Where To Eat GreenwichTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		B3DA187F1F35235900720EF9 /* Where To Eat GreenwichUITests */ = {
@@ -200,7 +163,7 @@
 			);
 			name = "Where To Eat GreenwichUITests";
 			productName = "Where To Eat GreenwichUITests";
-			productReference = B3DA18801F35235900720EF9 /* Where To Eat GreenwichUITests.xctest */;
+			productReference = B3D3C2B1215DCC2D008A77FD /* Where To Eat GreenwichUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -241,7 +204,7 @@
 				Base,
 			);
 			mainGroup = B3DA18561F35235900720EF9;
-			productRefGroup = B3DA18601F35235900720EF9 /* Products */;
+			productRefGroup = B3DA18561F35235900720EF9;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -299,7 +262,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3DA187A1F35235900720EF9 /* Where_To_Eat_GreenwichTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,7 +269,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3DA18851F35235900720EF9 /* Where_To_Eat_GreenwichUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -533,6 +494,7 @@
 				B3DA188B1F35235900720EF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B3DA188C1F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat GreenwichTests" */ = {
 			isa = XCConfigurationList;
@@ -541,6 +503,7 @@
 				B3DA188E1F35235900720EF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B3DA188F1F35235900720EF9 /* Build configuration list for PBXNativeTarget "Where To Eat GreenwichUITests" */ = {
 			isa = XCConfigurationList;
@@ -549,6 +512,7 @@
 				B3DA18911F35235900720EF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
